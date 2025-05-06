@@ -1,0 +1,54 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "dungeonplacehold.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Dungeon_Tilesheet.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "dungeonplacehold.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 114,
+                "y": -212
+            }
+        },
+        "dungeonplacehold2.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 145.5,
+                "y": -128.25
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/49147633/Downloads/github/week 9/comp1151prac-tilemapgame-AmberTimber/Assets/TilemapGame",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Dungeon_Tilesheet.tsx",
+        "dungeonplacehold2.tmx",
+        "dungeonplacehold.tmx"
+    ],
+    "project": "Dungeon.tiled-project",
+    "recentFiles": [
+        "Dungeon_Tilesheet.tsx",
+        "dungeonplacehold2.tmx",
+        "dungeonplacehold.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
