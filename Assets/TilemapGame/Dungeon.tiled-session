@@ -36,14 +36,13 @@
     "map.tileWidth": 16,
     "openFiles": [
         "Dungeon_Tilesheet.tsx",
-        "dungeonplacehold2.tmx",
         "dungeonplacehold.tmx"
     ],
     "project": "Dungeon.tiled-project",
     "recentFiles": [
         "Dungeon_Tilesheet.tsx",
-        "dungeonplacehold2.tmx",
-        "dungeonplacehold.tmx"
+        "dungeonplacehold.tmx",
+        "dungeonplacehold2.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
